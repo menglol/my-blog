@@ -99,7 +99,8 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:menglol/menglol.github.io.git
+#   repository: git@github.com:menglol/menglol.github.io.git
+  repo: https://github.com/menglol/menglol.github.io.git
   branch: master
 search:
   path: search.xml
